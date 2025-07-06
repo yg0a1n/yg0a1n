@@ -8,10 +8,8 @@ Welcome! This profile is about exploring, building, and expanding in the world o
   <a href="https://github.com/yg0a1n" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://badges.pufler.dev/gists/yg0a1n" alt="Gists Badge">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yg0a1n.yg0a1n" alt="visitors"/>
 </p>
-  <img src="https://badges.pufler.dev/commits/monthly/pujux" alt="Commits Badge">
 
 ## 🔗 Blockchain Resources
 
@@ -23,7 +21,6 @@ Interested in blockchain? Check out my dedicated repository for finalized projec
   <a href="https://github.com/blockchaindevweb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://badges.pufler.dev/gists/blockchaindevweb" alt="Gists Badge">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=blockchaindevweb.blockchaindevweb" alt="visitors"/>
 </p>
 
@@ -39,7 +36,6 @@ Curious about my early days? Explore my projects from when I started my journey 
   <a href="https://github.com/cursusdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://badges.pufler.dev/gists/cursusdev" alt="Gists Badge">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cursusdev.cursusdev" alt="visitors"/>
 </p>
 
