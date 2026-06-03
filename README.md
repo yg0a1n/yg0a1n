@@ -2,7 +2,7 @@
 
 Welcome! This profile is about exploring, building, and expanding in the world of Web2 and agentic AI.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yg0a1n&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats-ten-nu-17.vercel.app/api/top-langs?username=yg0a1n&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <p align="left">
   <a href="https://github.com/yg0a1n" target="_blank">
@@ -15,7 +15,7 @@ Welcome! This profile is about exploring, building, and expanding in the world o
 
 Interested in blockchain? Check out my dedicated repository for finalized project missions:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blockchaindevweb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats-ten-nu-17.vercel.app/api/top-langs?username=blockchaindevweb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <p align="left">
   <a href="https://github.com/blockchaindevweb" target="_blank">
@@ -30,7 +30,7 @@ This repository showcases work completed as part of real-world project assignmen
 
 Curious about my early days? Explore my projects from when I started my journey as a Web and Mobile Web Developer student:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cursusdev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="cursusdev top langs" />
+<img src="https://github-readme-stats-ten-nu-17.vercel.app/api/top-langs?username=cursusdev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="cursusdev top langs" />
 
 <p align="left">
   <a href="https://github.com/cursusdev" target="_blank">
