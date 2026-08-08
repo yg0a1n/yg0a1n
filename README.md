@@ -22,7 +22,7 @@ Open-source work you can read and run:
 | Project | What it does |
 |---|---|
 | [**tmux-agents-statusline**](https://github.com/yg0a1n/tmux-agents-statusline) | A tmux status bar to supervise a team of AI agents at a glance — you only step in on red |
-| [**starter-next15-ui-kit**](https://github.com/yg0a1n/starter-next15-ui-kit) | Next.js 15 starter with Tailwind and shadcn/ui, Docker and CI/CD to Fly.io included |
+| [**starter-nextjs-ui-kit**](https://github.com/yg0a1n/starter-nextjs-ui-kit) | Next.js starter with Tailwind and shadcn/ui, Docker and CI/CD to Fly.io included |
 | [**flexiweb-registry**](https://github.com/yg0a1n/flexiweb-registry) | The FlexiWeb design system — tokens and a shadcn theme, importable in v0 |
 | [**langgraph-arithmetic**](https://github.com/yg0a1n/langgraph-arithmetic) | A minimal LangGraph setup to prototype and visualize agent graphs |
 
